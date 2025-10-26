@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<libreria>
+    <Libros>
+        <libro>
+            <autor>Cervantes</autor>
+            <titulo>Quijote</titulo>
+            <editorial>el barco de vapor</editorial>
+            <isbn>1234</isbn>
+            <precio>0.0</precio>
+            <ano>0</ano>
+        </libro>
+        <libro>
+            <autor>Fernando de Rojas</autor>
+            <titulo>La celestina</titulo>
+            <editorial>Hacendado</editorial>
+            <isbn>4321</isbn>
+            <precio>0.0</precio>
+            <ano>0</ano>
+        </libro>
+        <libro>
+            <autor>Nome Lose Marquex</autor>
+            <titulo>Capitan Calzoncillos</titulo>
+            <editorial>Anaya</editorial>
+            <isbn>6666</isbn>
+            <precio>10.0</precio>
+            <ano>2005</ano>
+        </libro>
+        <libro>
+            <autor>Nome Lose Marquex</autor>
+            <titulo>Capitan Calzoncillos</titulo>
+            <editorial>Anaya</editorial>
+            <isbn>6666</isbn>
+            <precio>10.0</precio>
+            <ano>2005</ano>
+        </libro>
+        <libro>
+            <autor>Nome Lose Marquex</autor>
+            <titulo>Capitan Calzoncillos</titulo>
+            <editorial>Anaya</editorial>
+            <isbn>6666</isbn>
+            <precio>10.0</precio>
+            <ano>2005</ano>
+        </libro>
+        <libro>
+            <autor>Nome Lose Marquex</autor>
+            <titulo>Capitan Calzoncillos</titulo>
+            <editorial>Anaya</editorial>
+            <isbn>6666</isbn>
+            <precio>10.0</precio>
+            <ano>2005</ano>
+        </libro>
+        <libro>
+            <autor>Nome Lose Marquex</autor>
+            <titulo>Capitan Calzoncillos</titulo>
+            <editorial>Anaya</editorial>
+            <isbn>6666</isbn>
+            <precio>10.0</precio>
+            <ano>2005</ano>
+        </libro>
+    </Libros>
+</libreria>

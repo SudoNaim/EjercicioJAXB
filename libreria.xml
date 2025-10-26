@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<libreria>
+    <Libros>
+        <libro>
+            <autor>Cervantes</autor>
+            <titulo>Quijote</titulo>
+            <editorial>El Barco de Vapor</editorial>
+            <isbn>1234</isbn>
+            <precio>19.9</precio>
+            <ano>1605</ano>
+        </libro>
+        <libro>
+            <autor>Fernando de Rojas</autor>
+            <titulo>La Celestina</titulo>
+            <editorial>Hacendado</editorial>
+            <isbn>4321</isbn>
+            <precio>14.5</precio>
+            <ano>1499</ano>
+        </libro>
+        <libro>
+            <autor>Nome Lose Marquex</autor>
+            <titulo>Capitan Calzoncillos</titulo>
+            <editorial>Anaya</editorial>
+            <isbn>6666</isbn>
+            <precio>10.0</precio>
+            <ano>2005</ano>
+        </libro>
+    </Libros>
+    <lugar>Calle Madrid</lugar>
+    <nombre>Las hojas</nombre>
+</libreria>
